@@ -7,4 +7,3 @@ The random module is then used to select a pseudorandom episode from the list an
 The website that is scraped for the list of episdoes is 'epguides.com'
 
 Users can also randomise from a list of all episodes or from specific seasons of the TV show
-Includes error handling to manage erroneous inputs
